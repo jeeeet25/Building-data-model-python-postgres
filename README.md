@@ -17,7 +17,8 @@ This project involves creating a PostgreSQL database to store and manage wealth 
 1. **Wealth-AccountData.csv**: Contains country-level wealth data.
 2. **Wealth-AccountsCountry.csv**: Metadata for countries.
 3. **Wealth-AccountSeries.csv**: Information on series and indicators.
-4. **wealthMain**: Script to clean data, create PostgreSQL tables, and insert data.
+4. **wealthMain.py**: Script to clean data, create PostgreSQL tables, and insert data.
+5. **Main.py**: Practice script for the ones who are getting started with python.
 
 ## Steps
 1. **Data Loading and Cleaning**
