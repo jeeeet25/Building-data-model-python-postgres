@@ -1,4 +1,4 @@
-# Wealth Account Database Project
+# Building a Postgres Database using pyhton
 
 ## Project Overview
 This project involves creating a PostgreSQL database to store and manage wealth account data, with information sourced from three CSV files. The goal is to create three tables for country, account data, and series information, then insert cleaned data from CSV files into the respective tables.
